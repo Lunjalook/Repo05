@@ -3,7 +3,7 @@ function main() {
     var myName = "Lunjalook";
     var myString = "My name is " + myName + " and I am well!";
     // only change code above this line
-    return myString
+    return myString;
 }
 
 console.log(main());

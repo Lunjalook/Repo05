@@ -4,7 +4,7 @@ function main() {
     var myString = "Mistral is ";
     myString += someAdjective;
     // only change code above this line
-    return myString
+    return myString;
 }
 
 console.log(main());
